@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer clock ring representing structured time (Mint Glow) -->
+    <path
+        android:strokeColor="#34D399"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+
+    <!-- Sleek mechanical dial indices -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M52.5,28h3v6h-3z M52.5,74h3v6h-3z M28,52.5h6v3h-6z M74,52.5h6v3h-6z" />
+
+    <!-- Hourglass shape mapping free hours to productive learning (Prismatic White) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M42,36 h24 v4 L58,48 L58,60 L66,68 v4 h-24 v-4 L50,60 L50,48 L42,40 Z" />
+
+    <!-- Streaming reclaimed sand (Active Mint) -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M52.5,43h3v13h-3z M52.5,63h3v5h-3z" />
+</vector>

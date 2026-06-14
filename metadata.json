@@ -1,0 +1,6 @@
+{
+  "name": "AI Time Allocator",
+  "description": "An AI-powered time management app that tracks your daily activities and learns your routine to allocate free time for reading and studying.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
